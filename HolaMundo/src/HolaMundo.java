@@ -53,8 +53,8 @@ public class HolaMundo {
         }*/
     
 		
-        String name = System.console().readLine();
+        /*String name = System.console().readLine();
         
-        System.out.println("You entered string " + name);	}
+        System.out.println("You entered string " + name);	}*/
 
 }
